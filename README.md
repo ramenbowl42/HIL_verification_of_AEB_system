@@ -1,6 +1,6 @@
 # Heterogeneous Compute Architectures for Autonomous Emergency Braking 🚗⚡
 
-**University Final Year Engineering Project (Module: XE636)**
+**University 3rd Year Engineering Project (Module: XE636)**
 
 The overall aim of this project was to prove that COTS hardware is capable of providing sufficient safety for automobile users. This repository contains the empirical data logs and visual simulation results of the Hardware-in-the-Loop (HIL) simulation of a vision based autonomous emergency braking system. The project analyses the  the latency of a heterogenous GPU & FPGA perception to actuation pipeline. Furthermore, the project also compares the perception model's performance on a COTS CPU against a COTS GPU to justify hardware choices.
 
